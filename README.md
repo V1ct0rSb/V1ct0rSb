@@ -33,8 +33,7 @@
   <a href = "mailto:denvictor.sbarreto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-barreto-6a3129258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=V1ct0rSb&bg_color=0d1117&color=d02547&line=d02547&point=a6a3a0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ 
 </div>
 
 ##
