@@ -39,7 +39,6 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
 &nbsp;
-&nbsp;
 
 ## Contacts:
 <div> 
