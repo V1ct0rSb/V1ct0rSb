@@ -1,12 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE6E96&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Victor+Barreto;I'm+22+years+old;I+from+Brazil;I'm+Studying+Information+Systems;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE6E96&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Victor+Santos+Barreto;I'm+23+years+old;I'm+from+Brazil;Studying+Information+Systems;Focused+on+becoming+Fullstack+💻;Currently+passionate+about+Web+Development;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 &nbsp;
 &nbsp;
 
 <div align="center" style="margin-bottom:100px">  
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=V1ct0rSb&theme=radical&mode=weekly" />
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=V1ct0rSb&show_icons=true&theme=radical&include_all_commits=true" 
+  />
+
   <img width=40% align="center"  align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=V1ct0rSb&show_icons=true&theme=radical&layout=compact" />
 </div>
 
@@ -51,9 +58,6 @@
 <br><p align="centre"><b>🔎 Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{V1ct0rSb}/count.svg" /></p> 
 <br>
-
-
-![image](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)	    
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=footer"/>
