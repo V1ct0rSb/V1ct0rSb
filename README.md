@@ -1,5 +1,6 @@
 # Hello, I'm Victor Barreto 👋
 
+---
 
 ## 🇺🇸 English
 
@@ -23,6 +24,7 @@ Sou graduado em **Sistemas de Informação** pela Universidade Tiradentes (UNIT)
 Embora meu foco principal seja a construção de APIs robustas e arquiteturas sólidas, também tenho facilidade com desenvolvimento frontend, com o objetivo de me tornar um Desenvolvedor Fullstack. Meu foco não é apenas escrever código, mas resolver problemas de negócio através da tecnologia.
 
 
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -35,14 +37,6 @@ Embora meu foco principal seja a construção de APIs robustas e arquiteturas s�
 
 <br>
 
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=V1ct0rSb&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ct0rSb&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/victor-barreto-6a3129258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
