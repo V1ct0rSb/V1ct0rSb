@@ -1,6 +1,5 @@
 # Hello, I'm Victor Barreto 👋
 
----
 
 ## 🇺🇸 English
 
