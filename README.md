@@ -1,22 +1,51 @@
 # Hello, I'm Victor Barreto 👋
 
-<br>
 
-As an Information Systems graduate from Universidade Tiradentes (UNIT), my focus is on Backend development using Java and Spring Boot.
-While my primary focus is the backend, I am also passionate about frontend development and enjoy creating engaging visual experiences. This blend of interests fuels my ambition to grow into a Fullstack Developer role.
-I am committed to continuous learning, applying best practices, and sharing knowledge with my team. In every project, I strive to write clean code, build solid architecture, and ensure high performance.
+## 🇺🇸 English
 
-<br>
+### 👨‍💻 About Me
+I am a **Backend Developer** focused on the **Java & Spring ecosystem**.
+
+I hold a Bachelor's degree in **Information Systems** from Universidade Tiradentes (UNIT) and, strategically, I am currently enrolled in **Systems Analysis and Development (ADS)**.
+
+While my expertise lies in building robust APIs and solid architectures, I also appreciate frontend development, aiming to evolve into a complete Fullstack Developer. My goal is to apply my academic background and self-taught skills to solve real-world problems.
+
+
+---
+
+## 🇧🇷 Português
+
+### 👨‍💻 Sobre Mim
+Sou um **Desenvolvedor Backend** focado no **ecossistema Java & Spring**.
+
+Sou graduado em **Sistemas de Informação** pela Universidade Tiradentes (UNIT) e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
+
+Embora meu foco principal seja a construção de APIs robustas e arquiteturas sólidas, também tenho facilidade com desenvolvimento frontend, com o objetivo de me tornar um Desenvolvedor Fullstack. Meu foco não é apenas escrever código, mas resolver problemas de negócio através da tecnologia.
+
+
+---
 
 ## 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,javascript,html,css,react,mysql,git)](https://skillicons.dev)
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,aws,kafka,rabbitmq&perline=10" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,git,github,linux,idea,vscode&perline=10" />
+</div>
 
 <br>
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1ct0rSb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ct0rSb&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=V1ct0rSb&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ct0rSb&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/victor-barreto-6a3129258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:denvictor.sbarreto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://my-portfolio-bay-phi-14.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
+</div>
